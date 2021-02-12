@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header>
+        Welcome to Zhuang Tian's web page!  @ViewBag.title
+        <br />
+        <br />
+        @Html.ActionLink("10 green bottles", "Razor", "Home") <br />
+        @Html.ActionLink("Create Person", "CreatePerson", "Home") <br />
+        @Html.ActionLink("Error", "Error", "Home") <br />
+    </header>
+    <div class="content">
+        @RenderBody()
+    </div>
+    <footer>
+        <br/>
+        <br/>
+          The layout is the structure of the web pages, which means it decides which element goes into the web pages. For example,
+        we could add hyperlinks, header, footer and so on.
+
+        <br/>
+        <br/>
+        The layout file should be in the views folder, because it defines the frontend of web pages.
+        The StyleSheet.css file should be in the css folder, because the file type of stylesheet is css.
+    </footer>
+</body>
+</html>

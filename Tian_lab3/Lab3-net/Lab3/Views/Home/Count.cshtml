@@ -1,0 +1,32 @@
+﻿@{ Layout = "_Layout";
+    ViewData["Title"] = "Count";
+    int i = 10;
+}
+
+<h3>10 green bottles</h3>
+<table>
+    @{ while (i > 0)
+        {
+        <tr>
+            <td>
+                @i green bottles hanging on the wall
+            </td>
+            <td>
+                @i green bottles hanging on the wall
+            </td>
+            <td>
+                And if one green bottle should accidentally fall
+            </td>
+
+            <td>
+                There'll be @i green bottles hanging on the wall
+
+            </td>
+
+         </tr>
+            i--;
+
+            }
+            }
+</table>
+

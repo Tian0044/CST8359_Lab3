@@ -1,0 +1,14 @@
+﻿@{ Layout = "_Layout";
+    ViewData["Title"] = "Razor"; 
+   }
+
+<h3>Enter number of bottles</h3>
+<form asp-controller="Home" asp-action="Count" method="post">
+    <table>
+        <tr>
+            <td>Number of bottles(50 - 100)</td>
+            <td><input type="number" name="bottles" /></td>
+        </tr>
+    </table>
+    <input type="submit" value="enter" />
+</form>

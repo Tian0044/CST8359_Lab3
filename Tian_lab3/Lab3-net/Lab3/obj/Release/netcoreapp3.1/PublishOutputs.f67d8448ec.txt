@@ -1,0 +1,10 @@
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.exe
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\StyleSheet.css
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.dll
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.deps.json
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.runtimeconfig.json
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.pdb
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.Views.dll
+C:\Users\tiffe\Desktop\CS-555\CST8359net\3\Lab3(1)\Lab3-net\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.Views.pdb

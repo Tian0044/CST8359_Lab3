@@ -1,0 +1,65 @@
+﻿
+@{ Layout = "_Layout"; }
+
+<h3>Display Person</h3>
+<table>
+    <tr>
+        <td>
+            First Name:
+        </td>
+        <td>
+            @ViewData["firstname"]
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Last Name:
+        </td>
+        <td>
+            @ViewData["lastname"]
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Age:
+        </td>
+        <td>
+            @ViewData["age"]
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Email Address:
+        </td>
+        <td>
+            @ViewData["emailAddress"]
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Date of Birth:
+        </td>
+        <td>
+            @ViewData["dateofbirth"]
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Password:
+        </td>
+        <td>
+            @ViewBag.password
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Description:
+        </td>
+        <td>
+            @ViewData["description"]
+        </td>
+    </tr>
+</table>
+<br />
+<br />
+<br />
